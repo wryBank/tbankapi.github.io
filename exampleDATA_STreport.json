@@ -1,0 +1,292 @@
+{
+	"examSubmission": {
+		"id": "bf756d58-1933-40af-9004-758b196bdd9d",
+		"userId": "e8f5c0bd-dd9c-4330-86fa-8fb8a78c868a",
+		"examId": "3e60717a-8dc9-4f44-a0a7-b5e53741e6c4",
+		"maxScore": 200,
+		"score": 19,
+		"scorePercentage": 9.5,
+		"examType": "toeic_st",
+		"createdAt": "2024-08-03T05:59:26.465Z",
+		"updatedAt": "2024-08-03T05:59:26.465Z",
+		"partScores": [
+			{
+				"id": "17da2652-2cf7-44dc-8974-1b67dfc75b35",
+				"part": 1,
+				"score": 0,
+				"maxScore": 6,
+				"scorePercentage": 0,
+				"scorePercentageTarget": 0,
+				"submissionId": "bf756d58-1933-40af-9004-758b196bdd9d",
+				"createdAt": "2024-08-03T05:59:26.465Z",
+				"updatedAt": "2024-08-03T05:59:26.465Z"
+			},
+			{
+				"id": "b39a66fd-f254-48d3-8c93-27e6a4e2bc99",
+				"part": 2,
+				"score": 0,
+				"maxScore": 25,
+				"scorePercentage": 0,
+				"scorePercentageTarget": 0,
+				"submissionId": "bf756d58-1933-40af-9004-758b196bdd9d",
+				"createdAt": "2024-08-03T05:59:26.465Z",
+				"updatedAt": "2024-08-03T05:59:26.465Z"
+			},
+			{
+				"id": "9e03dd1f-32dc-4ee6-a18c-e4a95b4a96ba",
+				"part": 3,
+				"score": 10,
+				"maxScore": 39,
+				"scorePercentage": 25.64,
+				"scorePercentageTarget": 0,
+				"submissionId": "bf756d58-1933-40af-9004-758b196bdd9d",
+				"createdAt": "2024-08-03T05:59:26.465Z",
+				"updatedAt": "2024-08-03T05:59:26.465Z"
+			},
+			{
+				"id": "60094db0-d47d-4f6c-9976-7a1677fbffd3",
+				"part": 4,
+				"score": 0,
+				"maxScore": 30,
+				"scorePercentage": 0,
+				"scorePercentageTarget": 0,
+				"submissionId": "bf756d58-1933-40af-9004-758b196bdd9d",
+				"createdAt": "2024-08-03T05:59:26.465Z",
+				"updatedAt": "2024-08-03T05:59:26.465Z"
+			},
+			{
+				"id": "75af64a7-fff7-499e-8136-f1e0edc27f4e",
+				"part": 5,
+				"score": 0,
+				"maxScore": 30,
+				"scorePercentage": 0,
+				"scorePercentageTarget": 0,
+				"submissionId": "bf756d58-1933-40af-9004-758b196bdd9d",
+				"createdAt": "2024-08-03T05:59:26.465Z",
+				"updatedAt": "2024-08-03T05:59:26.465Z"
+			},
+			{
+				"id": "5582f981-e999-4380-9f6d-9bdc9e1054f2",
+				"part": 6,
+				"score": 0,
+				"maxScore": 16,
+				"scorePercentage": 0,
+				"scorePercentageTarget": 0,
+				"submissionId": "bf756d58-1933-40af-9004-758b196bdd9d",
+				"createdAt": "2024-08-03T05:59:26.465Z",
+				"updatedAt": "2024-08-03T05:59:26.465Z"
+			},
+			{
+				"id": "6b6427cd-f699-4657-9349-9843cee79ce7",
+				"part": 7,
+				"score": 9,
+				"maxScore": 54,
+				"scorePercentage": 16.67,
+				"scorePercentageTarget": 0,
+				"submissionId": "bf756d58-1933-40af-9004-758b196bdd9d",
+				"createdAt": "2024-08-03T05:59:26.465Z",
+				"updatedAt": "2024-08-03T05:59:26.465Z"
+			}
+		],
+		"exam_scores": [
+			{
+				"id": "5516611b-566d-4208-947d-a612ef973438",
+				"userId": "e8f5c0bd-dd9c-4330-86fa-8fb8a78c868a",
+				"submissionId": "bf756d58-1933-40af-9004-758b196bdd9d",
+				"part1": 0,
+				"part2": 0,
+				"part3": 10,
+				"part4": 0,
+				"part5": 0,
+				"part6": 0,
+				"part7": 9,
+				"listeningScore": 5,
+				"readingScore": 5,
+				"totalScore": 10,
+				"createdAt": "2024-08-03T05:59:26.519Z",
+				"updatedAt": "2024-08-03T05:59:26.519Z"
+			}
+		]
+	},
+	"examTime": {
+		"total": "00:02:14",
+		"part5": "00:00:46",
+		"part6": "00:00:00",
+		"part7": "00:00:35"
+	},
+	"targetScore": 450,
+	"strengthsWeaknesses": {
+		"strength": {
+			"listening": [
+				{
+					"id": 41,
+					"descriptionEn": "You can understand short (single-sentence) descriptions of the central idea of a photograph.",
+					"cluster_toeic": {
+						"clusterNameEn": "Understanding Context of Photographs",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 1,
+						"mTypeSectionId": 1
+					}
+				},
+				{
+					"id": 42,
+					"descriptionEn": "You can sometimes understand the central idea, purpose, and basic context of extended spoken texts in which this information is supported by a lot of repetition and easy vocabulary.",
+					"cluster_toeic": {
+						"clusterNameEn": "Contextualizing Extended Spoken Texts",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 1,
+						"mTypeSectionId": 1
+					}
+				},
+				{
+					"id": 43,
+					"descriptionEn": "You can understand short spoken exchanges and descriptions of the central idea when the vocabulary is easy and when there is only a small amount of text that must be understood.",
+					"cluster_toeic": {
+						"clusterNameEn": "Understanding Short Spoken Exchanges",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 1,
+						"mTypeSectionId": 1
+					}
+				},
+				{
+					"id": 44,
+					"descriptionEn": "You can understand details in extended spoken texts when the requested information comes at the beginning or end of the text and when it matches the words in the spoken text.",
+					"cluster_toeic": {
+						"clusterNameEn": "Understanding Extended Spoken Texts",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 1,
+						"mTypeSectionId": 1
+					}
+				}
+			],
+			"reading": [
+				{
+					"id": 77,
+					"descriptionEn": "You can locate the correct answer to a factual question when not very much reading is necessary and when the language of the text matches the information that is required.",
+					"cluster_toeic": {
+						"clusterNameEn": "Reading for Meaning",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 1,
+						"mTypeSectionId": 2
+					}
+				},
+				{
+					"id": 78,
+					"descriptionEn": "You can understand easy vocabulary and common phrases.",
+					"cluster_toeic": {
+						"clusterNameEn": "Vocabulary",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 1,
+						"mTypeSectionId": 2
+					}
+				},
+				{
+					"id": 79,
+					"descriptionEn": "You can understand the most common rule-based grammatical constructions when not very much reading is necessary.",
+					"cluster_toeic": {
+						"clusterNameEn": "Grammar",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 1,
+						"mTypeSectionId": 2
+					}
+				}
+			]
+		},
+		"weakness": {
+			"listening": [
+				{
+					"id": 55,
+					"descriptionEn": "You do not understand the central idea, purpose, or basic context of short spoken exchanges, even when the language is direct and no unexpected information is present.",
+					"cluster_toeic": {
+						"clusterNameEn": "Contextualizing Short Spoken Exchanges",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 1
+					}
+				},
+				{
+					"id": 56,
+					"descriptionEn": "You do not understand the central idea, purpose, and basic context of extended spoken texts when it is necessary to connect information across the text or when the vocabulary is somewhat difficult.",
+					"cluster_toeic": {
+						"clusterNameEn": "Contextualizing Extended Spoken Texts",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 1
+					}
+				},
+				{
+					"id": 57,
+					"descriptionEn": "You do not understand details in short spoken exchanges when somewhat difficult vocabulary is used or when the language is syntactically complex. You do not understand details that include negative constructions.",
+					"cluster_toeic": {
+						"clusterNameEn": "Understanding Short Spoken Exchanges",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 1
+					}
+				},
+				{
+					"id": 58,
+					"descriptionEn": "You do not understand details in extended spoken texts when the requested information is heard in the middle of the text. You do not understand paraphrased information or difficult grammatical constructions.",
+					"cluster_toeic": {
+						"clusterNameEn": "Understanding Extended Spoken Texts",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 1
+					}
+				}
+			],
+			"reading": [
+				{
+					"id": 93,
+					"descriptionEn": "You cannot make inferences about information in written texts.",
+					"cluster_toeic": {
+						"clusterNameEn": "Making Inferences",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 2
+					}
+				},
+				{
+					"id": 94,
+					"descriptionEn": "You do not understand paraphrased factual information. You rely on matching words and phrases in the text to answer questions.",
+					"cluster_toeic": {
+						"clusterNameEn": "Reading for Meaning",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 2
+					}
+				},
+				{
+					"id": 95,
+					"descriptionEn": "You are often unable to connect information, even within a single sentence.",
+					"cluster_toeic": {
+						"clusterNameEn": "Connecting Information",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 2
+					}
+				},
+				{
+					"id": 96,
+					"descriptionEn": "You understand only a limited range of vocabulary.",
+					"cluster_toeic": {
+						"clusterNameEn": "Vocabulary",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 2
+					}
+				},
+				{
+					"id": 97,
+					"descriptionEn": "You do not understand even easy grammatical constructions when other language features, such as difficult vocabulary or the need to connect information, are also required.",
+					"cluster_toeic": {
+						"clusterNameEn": "Grammar",
+						"totalScore": 120,
+						"mStrengthAndWeaknessId": 2,
+						"mTypeSectionId": 2
+					}
+				}
+			]
+		}
+	}
+}
